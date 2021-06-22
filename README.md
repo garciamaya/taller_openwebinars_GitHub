@@ -9,4 +9,5 @@ babla blabla texto
 
 **Probamos las negritas**
  Probamos el latex
- $$x=\fracc{1}{2}$$
+ 
+ $x=\fracc{1}{2}$
